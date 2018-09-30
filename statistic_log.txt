@@ -1,0 +1,22 @@
+  ---------------------
+  Number of subtype label = 34
+  Subtype Event:
+  Total trigger = 181673
+  - Number of single meaning trigger = 475
+  - Number of single meaning lemma trigger = 472
+  - Number of 'Other' event = 177422
+  - Ratio of sample single meaning trigger = 1.180692783187375 %
+  - Ratio of sample single meaning lemma trigger = 1.180692783187375 %
+  - Ratio of other trigger = 97.66008157513775%
+  ---------------------
+  ---------------------
+  Number of subtype label = 34
+  Base Event:
+  Total trigger = 181673
+  - Number of single meaning trigger = 502
+  - Number of single meaning lemma trigger = 499
+  - Number of 'Other' event = 177422
+  - Ratio of sample single meaning trigger = 1.351329036235434 %
+  - Ratio of sample single meaning lemma trigger = 1.351329036235434 %
+  - Ratio of other trigger = 97.66008157513775%
+  ---------------------
